@@ -28,4 +28,18 @@ p11:https://github.com/vighneshpoojary/AdvanceJava-J2EE/blob/main/lab2.p11.png
 p12:https://github.com/vighneshpoojary/AdvanceJava-J2EE/blob/main/lab2.p12.png
 
 
+STRING_HANDLING:https://github.com/vighneshpoojary/AdvanceJava-J2EE/blob/main/STRINGHANDLING.png
+PERFORMANCE_TEST:https://github.com/vighneshpoojary/AdvanceJava-J2EE/blob/main/performCE.png
+NULL_OR_WHITESPACE_CHECK:https://github.com/vighneshpoojary/AdvanceJava-J2EE/blob/main/nullorwhitespace.png
+
+COUNT_OF_OCCURENCE:https://github.com/vighneshpoojary/AdvanceJava-J2EE/blob/main/SUBSTRING.png
+REVERSE_STRING:https://github.com/vighneshpoojary/AdvanceJava-J2EE/blob/main/REVERSESTRING.png
+PALINDROME_CHECK:https://github.com/vighneshpoojary/AdvanceJava-J2EE/blob/main/palindrome.png
+REMOVE_WHITESPACE:https://github.com/vighneshpoojary/AdvanceJava-J2EE/blob/main/REMOVEWHITESPACE.png
+CAPITALIZE_WORDS:https://github.com/vighneshpoojary/AdvanceJava-J2EE/blob/main/capitalizewords.png
+TRUNCATE:https://github.com/vighneshpoojary/AdvanceJava-J2EE/blob/main/TRUNCATE.png
+ISNUMERIC:https://github.com/vighneshpoojary/AdvanceJava-J2EE/blob/main/numericcheck.png
+RANDOM_STRING:https://github.com/vighneshpoojary/AdvanceJava-J2EE/blob/main/RANDOMSTRING.png
+COUNT_WORDS:https://github.com/vighneshpoojary/AdvanceJava-J2EE/blob/main/WORDCOUNT.png
+
 
