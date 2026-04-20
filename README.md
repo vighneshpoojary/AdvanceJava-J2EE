@@ -28,28 +28,28 @@ p11:https://github.com/vighneshpoojary/AdvanceJava-J2EE/blob/main/lab2.p11.png
 p12:https://github.com/vighneshpoojary/AdvanceJava-J2EE/blob/main/lab2.p12.png
 
 
-STRING_HANDLING:https://github.com/vighneshpoojary/AdvanceJava-J2EE/blob/main/STRINGHANDLING.png
-PERFORMANCE_TEST:https://github.com/vighneshpoojary/AdvanceJava-J2EE/blob/main/performCE.png
-NULL_OR_WHITESPACE_CHECK:https://github.com/vighneshpoojary/AdvanceJava-J2EE/blob/main/nullorwhitespace.png
+2a/3a STRING_HANDLING:https://github.com/vighneshpoojary/AdvanceJava-J2EE/blob/main/STRINGHANDLING.png
+2b PERFORMANCE_TEST:https://github.com/vighneshpoojary/AdvanceJava-J2EE/blob/main/performCE.png
+3b1 NULL_OR_WHITESPACE_CHECK:https://github.com/vighneshpoojary/AdvanceJava-J2EE/blob/main/nullorwhitespace.png
 
-COUNT_OF_OCCURENCE:https://github.com/vighneshpoojary/AdvanceJava-J2EE/blob/main/SUBSTRING.png
-REVERSE_STRING:https://github.com/vighneshpoojary/AdvanceJava-J2EE/blob/main/REVERSESTRING.png
-PALINDROME_CHECK:https://github.com/vighneshpoojary/AdvanceJava-J2EE/blob/main/palindrome.png
-REMOVE_WHITESPACE:https://github.com/vighneshpoojary/AdvanceJava-J2EE/blob/main/REMOVEWHITESPACE.png
-CAPITALIZE_WORDS:https://github.com/vighneshpoojary/AdvanceJava-J2EE/blob/main/capitalizewords.png
-TRUNCATE:https://github.com/vighneshpoojary/AdvanceJava-J2EE/blob/main/TRUNCATE.png
-ISNUMERIC:https://github.com/vighneshpoojary/AdvanceJava-J2EE/blob/main/numericcheck.png
-RANDOM_STRING:https://github.com/vighneshpoojary/AdvanceJava-J2EE/blob/main/RANDOMSTRING.png
-COUNT_WORDS:https://github.com/vighneshpoojary/AdvanceJava-J2EE/blob/main/WORDCOUNT.png
+3b2 COUNT_OF_OCCURENCE:https://github.com/vighneshpoojary/AdvanceJava-J2EE/blob/main/SUBSTRING.png
+3b3 REVERSE_STRING:https://github.com/vighneshpoojary/AdvanceJava-J2EE/blob/main/REVERSESTRING.png
+3b4 PALINDROME_CHECK:https://github.com/vighneshpoojary/AdvanceJava-J2EE/blob/main/palindrome.png
+3b5 REMOVE_WHITESPACE:https://github.com/vighneshpoojary/AdvanceJava-J2EE/blob/main/REMOVEWHITESPACE.png
+3c6 CAPITALIZE_WORDS:https://github.com/vighneshpoojary/AdvanceJava-J2EE/blob/main/capitalizewords.png
+3c7 TRUNCATE:https://github.com/vighneshpoojary/AdvanceJava-J2EE/blob/main/TRUNCATE.png
+3c8 ISNUMERIC:https://github.com/vighneshpoojary/AdvanceJava-J2EE/blob/main/numericcheck.png
+3c9 RANDOM_STRING:https://github.com/vighneshpoojary/AdvanceJava-J2EE/blob/main/RANDOMSTRING.png
+3c10 COUNT_WORDS:https://github.com/vighneshpoojary/AdvanceJava-J2EE/blob/main/WORDCOUNT.png
 
 
-SWING_EXAMPLE:https://github.com/vighneshpoojary/AdvanceJava-J2EE/blob/main/Swingexample.png
-BUTTON_PRESSED:https://github.com/vighneshpoojary/AdvanceJava-J2EE/blob/main/ButtonExample.png
-CLOCK_BUTTON:https://github.com/vighneshpoojary/AdvanceJava-J2EE/blob/main/IMAGEHOUR.png
-DISP_JLIST:https://github.com/vighneshpoojary/AdvanceJava-J2EE/blob/main/JlistExample.png
-TABBED_PANEL_RGB:https://github.com/vighneshpoojary/AdvanceJava-J2EE/blob/main/TabbedPaneExample.png
-COUNTRY_CAPITAL:https://github.com/vighneshpoojary/AdvanceJava-J2EE/blob/main/CountryCapitalList.png
-TABBED_PANE2:https://github.com/vighneshpoojary/AdvanceJava-J2EE/blob/main/ColorTabbed.png
+4a SWING_EXAMPLE:https://github.com/vighneshpoojary/AdvanceJava-J2EE/blob/main/Swingexample.png
+4b BUTTON_PRESSED:https://github.com/vighneshpoojary/AdvanceJava-J2EE/blob/main/ButtonExample.png
+4c CLOCK_BUTTON:https://github.com/vighneshpoojary/AdvanceJava-J2EE/blob/main/IMAGEHOUR.png
+5a DISP_JLIST:https://github.com/vighneshpoojary/AdvanceJava-J2EE/blob/main/JlistExample.png
+5b TABBED_PANEL_RGB:https://github.com/vighneshpoojary/AdvanceJava-J2EE/blob/main/TabbedPaneExample.png
+5c COUNTRY_CAPITAL:https://github.com/vighneshpoojary/AdvanceJava-J2EE/blob/main/CountryCapitalList.png
+5d TABBED_PANE2:https://github.com/vighneshpoojary/AdvanceJava-J2EE/blob/main/ColorTabbed.png
 
 
 
